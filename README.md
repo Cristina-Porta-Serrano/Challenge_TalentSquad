@@ -1,6 +1,9 @@
 # Challenge_TalentSquad
 Volcano eruption classification 🌋
 
+**PLEASE OPEN THE NOTEBOOK WITH NBVIEWER**: https://nbviewer.org/github/Cristina-Porta-Serrano/Challenge_TalentSquad/blob/main/Volcanic%20eruptions%20classification.ipynb
+ 
+ **THERE ARE DINAMYC VISUALIZATIONS THAT CANNOT BE DISPLAYED ON THE JUPYTER NOTEBOOK UPLOADED ON GITHUB.**
 
 ## State of art
 
