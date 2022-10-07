@@ -10,15 +10,15 @@ Jorge's system works with 5 types of eruptions:
 
 ![Eruption types](tipos.jpeg)
 
-Plinian: It is characterized by its high degree of explosiveness, with very violent manifestations in which large volumes of volcanic gas, fragments and ashes are expelled.
+- Plinian: It is characterized by its high degree of explosiveness, with very violent manifestations in which large volumes of volcanic gas, fragments and ashes are expelled.
 
-Peleana: The most important characteristic of a peleana eruption is the presence of a bright avalanche of hot volcanic ash, called a pyroclastic flow.
+- Peleana: The most important characteristic of a peleana eruption is the presence of a bright avalanche of hot volcanic ash, called a pyroclastic flow.
 
-Vulcanian: They are explosive-type volcanic eruptions. The magmatic material released is more viscous than in the case of Hawaiian or Strombolian eruptions; consequently, more pressure builds up from the magma chamber as magma rises toward the surface.
+- Vulcanian: They are explosive-type volcanic eruptions. The magmatic material released is more viscous than in the case of Hawaiian or Strombolian eruptions; consequently, more pressure builds up from the magma chamber as magma rises toward the surface.
 
-Hawaiian: Consists of the emission of volcanic material, mostly basaltic, in an effusive or non-explosive manner. It happens this way because the diffusion of gases through more basic magmas (basaltic) can be slow but more or less continuous. Consequently, volcanic eruptions of this type are usually not very destructive.
+- Hawaiian: Consists of the emission of volcanic material, mostly basaltic, in an effusive or non-explosive manner. It happens this way because the diffusion of gases through more basic magmas (basaltic) can be slow but more or less continuous. Consequently, volcanic eruptions of this type are usually not very destructive.
 
-Strombolian: The Strombolian eruption is characterized by explosive eruptions separated by periods of calm of variable duration. The process of each explosion corresponds to the evolution of a gas bubble released by the magma itself.
+- Strombolian: The Strombolian eruption is characterized by explosive eruptions separated by periods of calm of variable duration. The process of each explosion corresponds to the evolution of a gas bubble released by the magma itself.
 
 The objective of this challenge will be to help Jorge by performing predictive modeling from a dataset that contains the measurements made by the sensors and their types.
 
@@ -31,8 +31,6 @@ The objective of this challenge will be to help Jorge by performing predictive m
 We have tried different models using various classifiers such as Decision Tree, Logistic Regression Classifier, Support Vector Machine, XGBoost and Random Forest and we have tried to improve it using different feature engineering techniques. The results of the f1_score of the best model, Random Forest, have been validated using Cross Validation. A result of 77'59% has been achieved with the Cross Validation approach using Random Forest without hyperparameter tunning. A table with the results has been created:
 
 ![taula F1 score](Results.PNG)
-
-I would choose the Support Vector Machine model as the best one.
 
 ## Conclusions
 
