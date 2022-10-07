@@ -8,7 +8,7 @@ Jorge is a geologist at SGMI (Spanish Geological and Mining Institute) who is de
 
 Jorge's system works with 5 types of eruptions:
 
-![Eruption types](C:\Users\Pereira\Documents\IT Academy\Hackaton IT Academy\Repte/tipos.jpeg?raw=true "Title")
+![Eruption types](tipos.jpeg)
 
 Plinian: It is characterized by its high degree of explosiveness, with very violent manifestations in which large volumes of volcanic gas, fragments and ashes are expelled.
 
@@ -22,15 +22,15 @@ Strombolian: The Strombolian eruption is characterized by explosive eruptions se
 
 The objective of this challenge will be to help Jorge by performing predictive modeling from a dataset that contains the measurements made by the sensors and their types.
 
-* *Features/Attributes: The dataset contains 6 features in 6 columns, which are the parameters measured by the different sensors. These correspond to the vibrations detected at certain points on the slope of the volcano.
+* Features/Attributes: The dataset contains 6 features in 6 columns, which are the parameters measured by the different sensors. These correspond to the vibrations detected at certain points on the slope of the volcano.
 
-* *Target variable: The target corresponds to the 'label' that classifies the types of volcanic eruptions based on the features measured by the sensors.
+* Target variable: The target corresponds to the 'label' that classifies the types of volcanic eruptions based on the features measured by the sensors.
 
 ## Results
 
 We have tried different models using various classifiers such as Decision Tree, Logistic Regression Classifier, Support Vector Machine, XGBoost and Random Forest and we have tried to improve it using different feature engineering techniques. The results of the f1_score of the best model, Random Forest, have been validated using Cross Validation. A result of 77'59% has been achieved with the Cross Validation approach using Random Forest without hyperparameter tunning. A table with the results has been created:
 
-![taula F1 score](C:\Users\Pereira\Documents\IT Academy\Hackaton IT Academy\Repte/Results.png)
+![taula F1 score](Results.png)
 
 I would choose the Support Vector Machine model as the best one.
 
