@@ -30,7 +30,7 @@ The objective of this challenge will be to help Jorge by performing predictive m
 
 We have tried different models using various classifiers such as Decision Tree, Logistic Regression Classifier, Support Vector Machine, XGBoost and Random Forest and we have tried to improve it using different feature engineering techniques. The results of the f1_score of the best model, Random Forest, have been validated using Cross Validation. A result of 77'59% has been achieved with the Cross Validation approach using Random Forest without hyperparameter tunning. A table with the results has been created:
 
-![taula F1 score](Results.png)
+![taula F1 score](Results.PNG)
 
 I would choose the Support Vector Machine model as the best one.
 
