@@ -1,5 +1,5 @@
 # Challenge_TalentSquad
-Volcano eruption classification
+Volcano eruption classification 🌋
 
 
 ## State of art
@@ -7,6 +7,8 @@ Volcano eruption classification
 Jorge is a geologist at SGMI (Spanish Geological and Mining Institute) who is developing a new eruption prevention system to be able to predict what type of eruption a volcano will have based on the vibrations detected by its sensors during the days prior to the eruption. This will reduce the risk of victims and material damage caused by this kind of natural disaster.
 
 Jorge's system works with 5 types of eruptions:
+
+![Eruption types](C:\Users\Pereira\Documents\IT Academy\Hackaton IT Academy\Repte/tipos.jpeg?raw=true "Title")
 
 Plinian: It is characterized by its high degree of explosiveness, with very violent manifestations in which large volumes of volcanic gas, fragments and ashes are expelled.
 
