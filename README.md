@@ -52,3 +52,7 @@ To run this notebook you must have installed the following libraries:
     pip install numpy
     pip install matplotlib
     pip install -U scikit-learn
+ 
+ PLEASE OPEN THE NOTEBOOK WITH NBVIEWER: https://nbviewer.org/github/Cristina-Porta-Serrano/Challenge_TalentSquad/blob/main/Volcanic%20eruptions%20classification.ipynb
+ 
+ THERE ARE DINAMYC VISUALIZATIONS THAT CANNOT BE DISPLAYED ON THE JUPYTER NOTEBOOK UPLOADED ON GITHUB.
