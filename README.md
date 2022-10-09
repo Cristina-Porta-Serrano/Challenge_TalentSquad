@@ -1,6 +1,12 @@
 # Challenge_TalentSquad
 Volcano eruption classification 🌋
 
+## To take in account
+
+In the repository there are two empty files: predictions.json and app.py. These files were created because otherwise I couldn't upload the solution to the challenge in the Nuwe platform. The correct files are eruption_predictions.csv and the jupyter notebook file.
+
+IMPORTANT:
+
 **PLEASE OPEN THE NOTEBOOK WITH NBVIEWER**: https://nbviewer.org/github/Cristina-Porta-Serrano/Challenge_TalentSquad/blob/main/Volcanic%20eruptions%20classification.ipynb
  
  **THERE ARE DINAMYC VISUALIZATIONS THAT CANNOT BE DISPLAYED ON THE JUPYTER NOTEBOOK UPLOADED ON GITHUB.**
